@@ -17,7 +17,7 @@ export default function Home() {
         <title>PNW Software Solutions - Technology made simple</title>
         <meta
           name="description"
-          content="TODO - Add a description of the site here."
+          content="Software Development, Web Design, and IT Consulting in the Pacific Northwest."
         />
       </Head>
       <Header />
